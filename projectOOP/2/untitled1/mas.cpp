@@ -1,7 +1,6 @@
+// o xo xo
 #include "iostream"
 #include "mas.h"
-
-using namespace std;
 
 void mas::output()
 {
