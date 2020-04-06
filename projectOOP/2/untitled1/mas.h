@@ -1,4 +1,5 @@
-// xe xe
+
+// это класс Масив
 #ifndef MAS_H
 #define MAS_H
 
